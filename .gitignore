@@ -1,0 +1,7 @@
+# Ignore everything in folders
+logs/*
+temp/*
+modules/__pycache__/*
+
+# Exception to the rules
+!temp/.gitkeep
